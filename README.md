@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sdksoumya
 - 👀 I’m interested in Java & Python
-- 🌱 I’m currently learning C
+- 🌱🌿
 - 📫 How to reach me - @sdksoumya in all platform.
 
 <!---
